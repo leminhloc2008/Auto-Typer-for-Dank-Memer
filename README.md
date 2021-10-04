@@ -1,5 +1,5 @@
 # Auto Typer for Dank Memer
-An auto typer that auto run Dank Memer commands to make money fast.
+An auto typer that auto run Dank Memer Bot commands to make money fast.
 
 ## Requirements:
 First you need to install python, download link: https://www.python.org/downloads/ \
