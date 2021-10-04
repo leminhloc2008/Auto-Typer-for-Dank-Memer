@@ -4,8 +4,10 @@ An auto typer that auto run Dank Memer Bot commands to make money fast.
 ## Requirements:
 First you need to install python, download link: https://www.python.org/downloads/ \
 Then open cmd and type in these lines: \
+```sh
 pip install pyautogui\
 pip install keyboard
+```
 
 ## How to run
 Run the dankmemercheat.py file and keep your cursor at the discord chat box.\
