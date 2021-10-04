@@ -26,21 +26,27 @@ while True:
     #type commands
     pyautogui.typewrite(plsbeg)
     press('enter')
+    time.sleep(1)
 
     pyautogui.typewrite(plssearch)
     press('enter')
+    time.sleep(1)
 
     pyautogui.typewrite(plspostmeme)
     press('enter')
+    time.sleep(1)
 
     pyautogui.typewrite(plsdig)
     press('enter')
+    time.sleep(1)
 
     pyautogui.typewrite(plshunt)
     press('enter')
+    time.sleep(1)
 
     pyautogui.typewrite(plsfish)
     press('enter')
+    time.sleep(1)
 
     #wait 40s cooldown
     time.sleep(40)
