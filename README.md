@@ -8,7 +8,7 @@ pip install pyautogui\
 pip install keyboard
 
 ## How to run
-Run the dankmemercheat.py file keep your cursor at the discord chat box.\
+Run the dankmemercheat.py file and keep your cursor at the discord chat box.\
 The program will auto type in these lines:\
 \
 pls beg\
