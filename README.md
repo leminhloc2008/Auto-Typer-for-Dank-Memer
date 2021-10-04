@@ -30,5 +30,5 @@ Shovel
 04/10/2021: Release first version ( 0.0.1 )\
 Upcoming feature: Auto click feature that will auto click answer of the search command and other.
 
-##Discord Server:
+## Discord Server:
 Join my discord server: https://discord.com/channels/794531421112762371/878125767706423326
