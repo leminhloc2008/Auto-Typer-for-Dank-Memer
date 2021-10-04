@@ -5,12 +5,12 @@ An auto typer that auto run Dank Memer commands to make money fast.
 First you need to install python, download link: https://www.python.org/downloads/ \
 Then open cmd and type in these lines: \
 pip install pyautogui\
-pip install keyboard\
+pip install keyboard
 
 ## How to run
 Run the dankmemercheat.py file keep your cursor at the discord chat box.\
-The program will auto type in these lines:\
-
+The program will auto type in these lines:
+\
 pls beg\
 pls search\
 pls postmeme\
@@ -24,4 +24,4 @@ Also you need to have these items:\
 Laptop\
 Fishing Pole\
 Hunting Rifle\
-Shovel\
+Shovel
